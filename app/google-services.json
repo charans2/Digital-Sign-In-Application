@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091208842934",
+    "firebase_url": "https://metrohacks2.firebaseio.com",
+    "project_id": "metrohacks2",
+    "storage_bucket": "metrohacks2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091208842934:android:54efd0a25cf0f8df",
+        "android_client_info": {
+          "package_name": "com.example.csankaran.digitalsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091208842934-sosjscovv2j12j8c4emtonbjjvqsdt8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csankaran.digitalsignin",
+            "certificate_hash": "5f20cdf41b24211a8692bb3943ef70d0442fb9de"
+          }
+        },
+        {
+          "client_id": "1091208842934-s6c8ptuvoji0aqb5q7i8bpsggp405ctc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAriqRtT96rRjapJI5UkoyKkS0UhlXf7P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091208842934-s6c8ptuvoji0aqb5q7i8bpsggp405ctc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
